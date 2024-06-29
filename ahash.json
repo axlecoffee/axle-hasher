@@ -1,0 +1,5 @@
+{
+    "version": "1.0",
+    "bin": "ahash.exe",
+    "description": "A command line tool for sha256 hashing mutliple files"
+  }
